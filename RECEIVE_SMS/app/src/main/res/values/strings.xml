@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RECEIVE_SMS</string>
+    <string name="last_sms_message">Last SMS Message</string>
+</resources>
